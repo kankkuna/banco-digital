@@ -5,7 +5,7 @@ Se desarrolla a solicitud del Banco del País una serie de actividades las cuale
 
 ##### [Presentación Banco 100% Digital](https://docs.google.com/presentation/d/13S7VNRAiT_xEbgn2VpVZzeyVjvLb1Hk8kFrjRDPIVE4/edit?usp=sharing "Diapositivas")
 
-![Sin titulo](assets/docs/BMC.png)
+![ppt](https://user-images.githubusercontent.com/32303418/36885398-afee7602-1db4-11e8-9dad-4f19c4f54477.png)
 
 
 ##### [Business Model Canvas propuesto](https://docs.google.com/document/d/1T-UXTKcEXneHYgAKKy8IcOWhmIUyDL3nZNQ8zUk7QY8/edit "BMC")
