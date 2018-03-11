@@ -29,4 +29,33 @@ Se realiza una serie de comparaciones entre entidades financieras categorizadas 
 
 ![simple](https://user-images.githubusercontent.com/32303418/36883208-97b9b730-1da6-11e8-944f-72199ad58d15.png)
 
-##Prototipo
+![bancooriginal](assets/docs/original.png)
+
+![voi](assets/docs/voi.png)
+
+
+
+### ¿Cuáles son las prioridades de nuestro target?
+>* Quiero ser único:
+Tienen un alto sentido de individualidad.
+Quieren consumir
+productos y recibir servicios
+completamente alineados a
+sus gustos y necesidades.
+
+
+>* Lo quiero digitalizado:
+  Los procesos manuales, ya son cosas del pasado, la experiencia debe ser digitalizada y automatizada.
+
+
+>* Lo quiero rápido y fácil:
+  Tienen baja tolerancia a procesos largo y mucho peor al tiempo de espera, quieren acceso fácil e intuitivo.
+
+
+>* Quiero ser único:
+Tienen un alto sentido de individualidad.
+Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
+
+
+>* Lo quiero transparente:
+  Quieren procesos claros y teer seguimiento de estos, sentirse confiados para poder recomendar dicho servicio o producto.
