@@ -60,4 +60,20 @@ Quieren consumir productos y recibir servicios completamente alineados a sus gus
   Quieren procesos claros y teer seguimiento de estos, sentirse confiados para poder recomendar dicho servicio o producto.
 
 
-### Interviews
+  ### ¿Qué es Milenibank?
+  Milenibank es un banco para millennials (sí como o dice su nombre) somos una propuesta nueva para revolucionar la experiencia bancaria y venimos a borrar esas pre-ideas de que un banco es aburrido, engorroso y tedioso.
+
+  Buscamos darle a nuestro target lo que quiere y sobre todo lo que necesita, basándonos en un profundo research y en herramientas de desarrollo, damos una experiencia transparente, segura, amigable y divertida.
+
+  En Milenibank puedes consultar:
+  * saldos y transacciones
+  * transferir dinero por whatsapp así como recibir
+  * acceder a promociones hechas y pensadas para ti
+  * Tips para invertir tu dinero en cosas productivas
+  * puedes añadir una o más cuentas, tal como instagram o facebook
+
+  ### Dale un vistazo:
+    [milenibank](https://marvelapp.com/31566a4/screen/39565769)
+
+
+![milenibank](assets/docs/milenibank.jpeg)
