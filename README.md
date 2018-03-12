@@ -5,7 +5,7 @@ Se desarrolla a solicitud del Banco del País una serie de actividades las cuale
 
 ##### [Presentación Banco 100% Digital](https://docs.google.com/presentation/d/13S7VNRAiT_xEbgn2VpVZzeyVjvLb1Hk8kFrjRDPIVE4/edit?usp=sharing "Diapositivas")
 
-![ppt](https://user-images.githubusercontent.com/32303418/36885398-afee7602-1db4-11e8-9dad-4f19c4f54477.png)
+![ppt](https://user-images.githubusercontent.com/32303418/37267977-7c60b23e-2591-11e8-89f5-d1939c25106d.png)
 
 
 ##### [Business Model Canvas propuesto](https://docs.google.com/document/d/1T-UXTKcEXneHYgAKKy8IcOWhmIUyDL3nZNQ8zUk7QY8/edit "BMC")
@@ -20,7 +20,7 @@ Se desarrolla a solicitud del Banco del País una serie de actividades las cuale
 
 ###### Benchmarking
 
-Se realiza una serie de comparaciones entre entidades financieras categorizadas como "Digitalizados para millennials" de lo cual rescatamos puntos importantes que funcionan como eje para inclinar la imagen actual del banco hacia el foco que deseamos lograr, es decir "millennials".
+Se realiza una serie de comparaciones entre entidades financieras categorizadas como "Digitalizados para millennials" de lo cual rescatamos puntos importantes que funcionan como eje para inclinar la imagen actual del banco hacia el foco que deseamos lograr, es decir "millennials" y 100% digital.
 
 ![nequi](https://user-images.githubusercontent.com/32303418/36882876-63cc8198-1da4-11e8-9296-a5e0e5ba39eb.png)
 
@@ -58,3 +58,6 @@ Quieren consumir productos y recibir servicios completamente alineados a sus gus
 
 >* Lo quiero transparente:
   Quieren procesos claros y teer seguimiento de estos, sentirse confiados para poder recomendar dicho servicio o producto.
+
+
+### Interviews
