@@ -20,7 +20,6 @@ Se desarrolla a solicitud del Banco del País una serie de actividades las cuale
 
 ###### Benchmarking
 
-
 Se realiza una serie de comparaciones entre entidades financieras categorizadas como "Digitalizados para millennials" de lo cual rescatamos puntos importantes que funcionan como eje para inclinar la imagen actual del banco hacia el foco que deseamos lograr, es decir "millennials".
 
 ![nequi](https://user-images.githubusercontent.com/32303418/36882876-63cc8198-1da4-11e8-9296-a5e0e5ba39eb.png)
