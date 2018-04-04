@@ -1,7 +1,11 @@
-# Banco del Pais 100% Digital
+# Milenibank
 
-Se desarrolla a solicitud del Banco del País una serie de actividades las cuales tienen como fin digitalizar los múltiples procesos en relación a sus clientes tanto en el rubro comercial como soporte postventa y consultas en general.
+Se desarrolla a solicitud del Banco del País la cual tiene como fin digitalizar los múltiples procesos en relación a sus clientes tanto en el rubro comercial como soporte postventa y consultas en general.
 
+![milenibank](https://user-images.githubusercontent.com/32303418/38337217-041a7390-382a-11e8-883a-63d5d3cb3fdc.jpeg)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 ##### [Presentación Banco 100% Digital](https://docs.google.com/presentation/d/13S7VNRAiT_xEbgn2VpVZzeyVjvLb1Hk8kFrjRDPIVE4/edit?usp=sharing "Diapositivas")
 
